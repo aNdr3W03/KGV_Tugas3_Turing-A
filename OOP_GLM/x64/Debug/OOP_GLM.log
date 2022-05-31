@@ -1,0 +1,3 @@
+﻿  OOP_GLM.cpp
+C:\Users\HP\Downloads\OOP_GLM\OOP_GLM.cpp(23,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  OOP_GLM.vcxproj -> C:\Users\HP\Downloads\OOP_GLM\x64\Debug\OOP_GLM.exe
